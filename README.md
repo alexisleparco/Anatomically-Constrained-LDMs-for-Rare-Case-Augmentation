@@ -16,12 +16,10 @@ Periodontitis is a severe gum infection. The severe stage of this desease can't 
 
 ## Repository Structure
 
-Anatomically_Constrained_LDMs/
-├── notebooks/
-│   └── Anatomically_Constrained_LDMs.ipynb        
-├── presentation/         
-├── results/              
-└── README.md
+Anatomically_Constrained_LDMs.ipynb        
+presentation       
+results             
+README.md
 
 The main follows the required structure:
 - **Imports** — all needed packages
@@ -36,10 +34,14 @@ The main follows the required structure:
 
 ## Dataset
 
-**Name:** perio-KPT 
+**Name:** perio-KPT
+
 **Source:** [\[Link to dataset — Kaggle / GitHub / PapersWithCode / academic repository\] ](https://zenodo.org/records/17272200?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUyOGRhOTg3LTM0NmYtNGRiMC1iOGI4LWM4ODhmZGZmMWFjYyIsImRhdGEiOnt9LCJyYW5kb20iOiIzOGUwOGY1MmIxNGU4NWQ0YmVkZTQyZTY2MDI5NmU0YyJ9.wx0AXhIB7sBS0qQPxidRLha56XznHGCKCZQpvrtVNAzWDXIkszGl5IaXip3FNR_WH84r8o1DetfrAGkC1EyBTQ) 
+
 **Description:** 
+
 The dataset used includes bounding boxes, keypoints, and instance segmentation masks for dental structures. It provides the necessary anatomical annotations  to condition the LDM with gaussian heatmap 
+
 ---
 
 ## Environment & Requirements
