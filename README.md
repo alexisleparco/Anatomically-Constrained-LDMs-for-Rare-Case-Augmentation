@@ -20,7 +20,7 @@ presentation
 results             
 README.md
 
-The main follows the required structure:
+The Anatomically_Constrained_LDMs.ipynb follows the required structure:
 - **Imports** — all needed packages
 - **Globals** — global variables and hyperparameters
 - **Utils** — helper functions
