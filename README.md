@@ -1,5 +1,4 @@
-# Project N: [Project Title]
-> Computer Vision — A.A. 2025-2026 | Sapienza Università di Roma | ALCOR Lab
+# Project 4: Anatomically-Constrained-LDMs-for-Rare-Case-Augmentation
 
 
 ## Team
