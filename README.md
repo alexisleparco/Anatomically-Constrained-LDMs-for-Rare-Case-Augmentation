@@ -63,7 +63,7 @@ matplotlib: 3.10.0
 tqdm: 4.67.3
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Go to Anatomically_Constrained_LDMs.ipynb
 2. Click **Copy & Edit** to fork the notebook
